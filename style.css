@@ -1,0 +1,8 @@
+.left{
+  float: left;
+  margin: 30px 7px 7px 7px;
+}
+.right{
+  float: right;
+  margin: 7px 0 7px 7px;
+}
